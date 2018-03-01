@@ -1,11 +1,11 @@
 {
-    "name": "wengAlan/tp5-api",
+    "name": "wengalan/tp5-api",
     "description": "tp5-api",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "yubin",
+            "name": "wengAlan",
             "email": "1030283554@qq.com"
         }
     ],
